@@ -83,5 +83,5 @@ const averageRevenue = function (drivers) {
   console.log(Object.keys(drivers));
 
   return totalPrice/5;
-  //sorry I got stuck trying to figure out how to do this part :( )
+  //sorry I got stuck trying to figure out how to do this part :(
 };
